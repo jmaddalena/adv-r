@@ -98,7 +98,7 @@ Each of the four primary atomic vectors has special syntax to create an individu
 ### Making longer vectors with `c()` {#atomic-constructing}
 \indexc{typeof()}
 
-To greater longer vectors from shorter vectors, use `c()`:
+To create longer vectors from shorter vectors, use `c()`:
 
 ```{r}
 dbl_var <- c(1, 2.5, 4.5)
